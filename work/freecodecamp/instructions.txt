@@ -1,0 +1,1 @@
+logs in to database psql --username=freecodecamp --dbname=postgres
